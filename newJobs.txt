@@ -1,0 +1,30 @@
+Football Player
+The position neeeded is a Wide Receiver. The person responsible for this will have to be in shape for games every
+sunday in the National Stadium. Priority will be given to people who already know about the team.
+&&&
+Nationals
+Tampa
+$30000
+======
+Ball boy
+Return the ball to the players
+&&&
+USF Recreation center
+Tampa
+$1000
+======
+Accountant
+The position
+is very improtant.
+Previous knowledge is required.
+&&&
+Bank of America Corporation
+Miami
+$10000000
+======
+Football Player 2
+Football player(position is LB)
+&&&
+Bucs
+City of Tampa
+$10000000

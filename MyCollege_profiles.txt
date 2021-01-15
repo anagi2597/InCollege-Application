@@ -1,0 +1,286 @@
+
+                --Profile--
+                Name: alex miller
+                Senior
+                Major: Computer Science
+                University: USF 
+                
+                About: test 2
+                
+                --Education--
+                School: USF
+                Degree: Undergrad
+                Year attended: 2020
+                
+                --Experience-- 
+
+                Job 1:
+                    Title: Customer relation director
+                    Employer: McDonald's
+                    Start date: 6/9/2006
+                    End date: 6/9/2009
+                    Location: Tampa
+                    Description: Handle and fulfill customer's request
+                        
+
+==========
+
+                --Profile--
+                Name: Ayman Nagi
+                Senior
+                Major: Computer Science
+                University: USF 
+                
+                About: test friend
+                
+                --Education--
+                School: USF
+                Degree: Undergrad
+                Year attended: 2069
+                
+                --Experience-- 
+
+                Job 1:
+                    Title: Customer relation director
+                    Employer: Burgerking
+                    Start date: 6/9/2006
+                    End date: 6/9/2009
+                    Location: Tampa
+                    Description: Handle and fulfill customer's request
+                        
+
+==========
+
+                --Profile--
+                Name: Robert123! mill
+                Senior
+                Major: Computer Science
+                University: USF 
+                
+                About: test friend
+                
+                --Education--
+                School: USF
+                Degree: Undergrad
+                Year attended: 2069
+                
+                --Experience-- 
+
+                Job 1:
+                    Title: Customer relation director
+                    Employer: Burgerking
+                    Start date: 6/9/2006
+                    End date: 6/9/2009
+                    Location: Tampa
+                    Description: Handle and fulfill customer's request
+                        
+
+==========
+
+                --Profile--
+                Name: Robert Miller
+                Senior
+                Major: Computer Science
+                University: USF 
+                
+                About: test friend
+                
+                --Education--
+                School: USF
+                Degree: Undergrad
+                Year attended: 2069
+                
+                --Experience-- 
+
+                Job 1:
+                    Title: Customer relation director
+                    Employer: Burgerking
+                    Start date: 6/9/2006
+                    End date: 6/9/2009
+                    Location: Tampa
+                    Description: Handle and fulfill customer's request
+                        
+
+==========
+
+                --Profile--
+                Name: nagi anagi
+                Senior
+                Major: Computer Science
+                University: USF 
+                
+                About: test friend
+                
+                --Education--
+                School: USF
+                Degree: Undergrad
+                Year attended: 2069
+                
+                --Experience-- 
+
+                Job 1:
+                    Title: Customer relation director
+                    Employer: Burgerking
+                    Start date: 6/9/2006
+                    End date: 6/9/2009
+                    Location: Tampa
+                    Description: Handle and fulfill customer's request
+                        
+
+==========
+
+                --Profile--
+                Name: Tahir Montgomery
+                Senior
+                Major: Computer Science
+                University: USF 
+                
+                About: test friend
+                
+                --Education--
+                School: USF
+                Degree: Undergrad
+                Year attended: 2069
+                
+                --Experience-- 
+
+                Job 1:
+                    Title: Customer relation director
+                    Employer: Burgerking
+                    Start date: 6/9/2006
+                    End date: 6/9/2009
+                    Location: Tampa
+                    Description: Handle and fulfill customer's request
+                        
+
+==========
+
+                --Profile--
+                Name: LeBron James
+                Senior
+                Major: Computer Science
+                University: USF 
+                
+                About: test friend
+                
+                --Education--
+                School: USF
+                Degree: Undergrad
+                Year attended: 2069
+                
+                --Experience-- 
+
+                Job 1:
+                    Title: Customer relation director
+                    Employer: Burgerking
+                    Start date: 6/9/2006
+                    End date: 6/9/2009
+                    Location: Tampa
+                    Description: Handle and fulfill customer's request
+                        
+
+==========
+
+                --Profile--
+                Name: Dwayne Wade
+                Senior
+                Major: Computer Science
+                University: USF 
+                
+                About: test friend
+                
+                --Education--
+                School: USF
+                Degree: Undergrad
+                Year attended: 2069
+                
+                --Experience-- 
+
+                Job 1:
+                    Title: Customer relation director
+                    Employer: Burgerking
+                    Start date: 6/9/2006
+                    End date: 6/9/2009
+                    Location: Tampa
+                    Description: Handle and fulfill customer's request
+                        
+
+==========
+
+                --Profile--
+                Name: Micheal Jordan
+                Senior
+                Major: Computer Science
+                University: USF 
+                
+                About: test friend
+                
+                --Education--
+                School: USF
+                Degree: Undergrad
+                Year attended: 2069
+                
+                --Experience-- 
+
+                Job 1:
+                    Title: Customer relation director
+                    Employer: Burgerking
+                    Start date: 6/9/2006
+                    End date: 6/9/2009
+                    Location: Tampa
+                    Description: Handle and fulfill customer's request
+                        
+
+==========
+
+                --Profile--
+                Name: Barack Obama
+                Senior
+                Major: Computer Science
+                University: USF 
+                
+                About: test friend
+                
+                --Education--
+                School: USF
+                Degree: Undergrad
+                Year attended: 2069
+                
+                --Experience-- 
+
+                Job 1:
+                    Title: Customer relation director
+                    Employer: Burgerking
+                    Start date: 6/9/2006
+                    End date: 6/9/2009
+                    Location: Tampa
+                    Description: Handle and fulfill customer's request
+                        
+
+==========
+
+                --Profile--
+                Name: John Cena
+                Senior
+                Major: Computer Science
+                University: USF 
+                
+                About: test friend
+                
+                --Education--
+                School: USF
+                Degree: Undergrad
+                Year attended: 2069
+                
+                --Experience-- 
+
+                Job 1:
+                    Title: Customer relation director
+                    Employer: Burgerking
+                    Start date: 6/9/2006
+                    End date: 6/9/2009
+                    Location: Tampa
+                    Description: Handle and fulfill customer's request
+                        
+
+==========

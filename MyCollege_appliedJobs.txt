@@ -1,0 +1,35 @@
+Help Wanted:
+	alexm: I can help
+	romm: I can help better
+	newUser46: I can help the best
+==========
+Software Developer:
+	alexm: I can develop
+	tahirm: I can develop better
+==========
+Basketball Player:
+	alexm: I can ball
+	romm: I can ball better
+	newUser46: I can play the best
+==========
+Water boy:
+	alexm: I drink water
+	tahirm: I can drink water better
+==========
+Driver:
+	alexm: I can drive
+	romm: I can drive better
+==========
+Barber:
+	alexm: I can cut hair
+	tahirm: I can cut hair better
+	newUser46: I can cut the best
+==========
+Football Player:
+==========
+Ball boy:
+==========
+Accountant:
+==========
+Football Player 2:
+==========
